@@ -38,7 +38,8 @@ The DEER Framework uses parameter like matching_Library and typeOfMap for Ontolo
 ```cmd
 docker run -it --rm  -v %cd%/plugins:/plugins -v %cd%/src/test/resources:/config dicegroup/deer:latest /config/configuration.ttl
 ```
-
+# LogMap:  An Ontology Alignment and Alignment Repair System
+https://github.com/ernestojimenezruiz/logmap-matcher
 
 
 

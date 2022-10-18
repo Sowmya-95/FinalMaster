@@ -40,6 +40,8 @@ docker run -it --rm  -v %cd%/plugins:/plugins -v %cd%/src/test/resources:/config
 ```
 # LogMap:  An Ontology Alignment and Alignment Repair System
 https://github.com/ernestojimenezruiz/logmap-matcher
+# FCA-Map :Identifying Mappings by Formal Concept Analysis
+https://github.com/icgw/FCA-Map#usage
 
 
 

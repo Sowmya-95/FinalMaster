@@ -25,7 +25,7 @@ want to invoke DEER and it will automatically be loaded.
 
 The DEER Framework uses parameter like matching_Library and typeOfMap for Ontology matching. 
 
-![Alt text](/screenshot/conf.png?raw=true "Output")
+![Alt text](/conf.png?raw=true "Output")
 
 **typeOfMap** :  set to class or dataproperty or combination of different mappings.
 
